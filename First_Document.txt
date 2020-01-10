@@ -1,5 +1,2 @@
-1. e para
-2. e dyta
-3. e treta
-4. e katerta --------88888888
-5. e pesta   ******555*****
+1. Creating a new document and pushing to GITHUB
+
